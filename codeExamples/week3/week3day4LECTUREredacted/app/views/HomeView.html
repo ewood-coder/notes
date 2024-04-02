@@ -1,0 +1,81 @@
+<div class="container">
+
+  <section id="activeReport" class="row justify-content-center">
+    <!-- STUB report details template -->
+    <!-- <div class="col-8">
+      <h1>Bigfoot</h1>
+      <h2>Reported by Mick on 3/28/2024 10:35:01 AM</h2>
+      <h2>Last accessed 3/28/2024 11:00:00 AM</h2>
+      <h2 style="color: #ff1818;">Midnight</h2>
+      <div>
+        <label for="reportBody">Report Body</label>
+        <textarea name="body" id="reportBody"></textarea>
+      </div>
+    </div> -->
+  </section>
+
+  <section class="row mt-2">
+    <div class="col-12">
+      <h1>Case Files</h1>
+    </div>
+  </section>
+
+  <section class="row">
+    <div class="col-12">
+      <form onsubmit="app.FieldReportsController.createFieldReport()">
+
+        <div class="mb-3">
+          <label for="title">Report Title</label>
+          <input type="text" name="title" id="title" required minlength="2" maxlength="20">
+        </div>
+
+        <div class="mb-3">
+          <label for="author">Report Author</label>
+          <input type="text" name="author" id="author" required minlength="1" maxlength="50">
+        </div>
+
+        <div class="mb-3">
+          <label for="threatLevel">Threat Level</label>
+          <select name="threatLevel" id="threatLevel" required>
+            <option value="#ff0022">RED</option>
+            <option value="#008eff">BLUE</option>
+            <option value="#f5b911">YELLOW</option>
+            <option value="#008d06" selected>GREEN</option>
+          </select>
+        </div>
+
+        <div class="mb-3">
+          <label for="securityLevel">Security Level</label>
+          <select name="securityLevel" id="securityLevel" required>
+            <option value="Midnight">Midnight</option>
+            <option value="High Noon">High Noon</option>
+            <option value="Eclipse">Eclipse</option>
+            <option value="Dawn" selected>Dawn</option>
+            <option value="Dusk">Dusk</option>
+          </select>
+        </div>
+
+        <div>
+          <button type="submit">Submit</button>
+        </div>
+
+      </form>
+    </div>
+  </section>
+
+
+
+  <section id="fieldReportList" class="row">
+    <!-- STUB field report list template -->
+    <!-- <div class="col-12">
+      <div class="d-flex gap-4 fs-3">
+        <p>Bigfoot</p>
+        <p>Midnight</p>
+        <p>3/28/2024</p>
+      </div>
+    </div> -->
+  </section>
+
+
+
+</div>
