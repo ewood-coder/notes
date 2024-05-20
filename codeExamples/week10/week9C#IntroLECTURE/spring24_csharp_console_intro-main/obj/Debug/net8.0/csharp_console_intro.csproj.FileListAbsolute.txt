@@ -1,0 +1,14 @@
+C:\Users\JeremysSurface\source\Codeworks\2024_spring\csharp_console_intro\bin\Debug\net8.0\csharp_console_intro.exe
+C:\Users\JeremysSurface\source\Codeworks\2024_spring\csharp_console_intro\bin\Debug\net8.0\csharp_console_intro.deps.json
+C:\Users\JeremysSurface\source\Codeworks\2024_spring\csharp_console_intro\bin\Debug\net8.0\csharp_console_intro.runtimeconfig.json
+C:\Users\JeremysSurface\source\Codeworks\2024_spring\csharp_console_intro\bin\Debug\net8.0\csharp_console_intro.dll
+C:\Users\JeremysSurface\source\Codeworks\2024_spring\csharp_console_intro\bin\Debug\net8.0\csharp_console_intro.pdb
+C:\Users\JeremysSurface\source\Codeworks\2024_spring\csharp_console_intro\obj\Debug\net8.0\csharp_console_intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JeremysSurface\source\Codeworks\2024_spring\csharp_console_intro\obj\Debug\net8.0\csharp_console_intro.AssemblyInfoInputs.cache
+C:\Users\JeremysSurface\source\Codeworks\2024_spring\csharp_console_intro\obj\Debug\net8.0\csharp_console_intro.AssemblyInfo.cs
+C:\Users\JeremysSurface\source\Codeworks\2024_spring\csharp_console_intro\obj\Debug\net8.0\csharp_console_intro.csproj.CoreCompileInputs.cache
+C:\Users\JeremysSurface\source\Codeworks\2024_spring\csharp_console_intro\obj\Debug\net8.0\csharp_console_intro.dll
+C:\Users\JeremysSurface\source\Codeworks\2024_spring\csharp_console_intro\obj\Debug\net8.0\refint\csharp_console_intro.dll
+C:\Users\JeremysSurface\source\Codeworks\2024_spring\csharp_console_intro\obj\Debug\net8.0\csharp_console_intro.pdb
+C:\Users\JeremysSurface\source\Codeworks\2024_spring\csharp_console_intro\obj\Debug\net8.0\csharp_console_intro.genruntimeconfig.cache
+C:\Users\JeremysSurface\source\Codeworks\2024_spring\csharp_console_intro\obj\Debug\net8.0\ref\csharp_console_intro.dll
