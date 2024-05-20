@@ -1,0 +1,41 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "build",
+			"command": "dotnet",
+			"type": "process",
+			"args": [
+				"build",
+				"${workspaceFolder}/codeExamples/week10/week9C#IntroLECTURE/spring24_csharp_console_intro-main/csharp_console_intro.csproj",
+				"/property:GenerateFullPaths=true",
+				"/consoleloggerparameters:NoSummary;ForceNoAlign"
+			],
+			"problemMatcher": "$msCompile"
+		},
+		{
+			"label": "publish",
+			"command": "dotnet",
+			"type": "process",
+			"args": [
+				"publish",
+				"${workspaceFolder}/codeExamples/week10/week9C#IntroLECTURE/spring24_csharp_console_intro-main/csharp_console_intro.csproj",
+				"/property:GenerateFullPaths=true",
+				"/consoleloggerparameters:NoSummary;ForceNoAlign"
+			],
+			"problemMatcher": "$msCompile"
+		},
+		{
+			"label": "watch",
+			"command": "dotnet",
+			"type": "process",
+			"args": [
+				"watch",
+				"run",
+				"--project",
+				"${workspaceFolder}/codeExamples/week10/week9C#IntroLECTURE/spring24_csharp_console_intro-main/csharp_console_intro.csproj"
+			],
+			"problemMatcher": "$msCompile"
+		}
+	]
+}
