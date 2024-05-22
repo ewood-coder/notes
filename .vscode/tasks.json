@@ -7,7 +7,7 @@
 			"type": "process",
 			"args": [
 				"build",
-				"${workspaceFolder}/codeExamples/week10/spring24_postit_csharp/spring24_postit_csharp/server/postit_csharp.csproj",
+				"${workspaceFolder}/codeExamples/week10/week9C#IntroLECTURE/spring24_csharp_console_intro-main/csharp_console_intro.csproj",
 				"/property:GenerateFullPaths=true",
 				"/consoleloggerparameters:NoSummary;ForceNoAlign"
 			],
@@ -19,7 +19,7 @@
 			"type": "process",
 			"args": [
 				"publish",
-				"${workspaceFolder}/codeExamples/week10/spring24_postit_csharp/spring24_postit_csharp/server/postit_csharp.csproj",
+				"${workspaceFolder}/codeExamples/week10/week9C#IntroLECTURE/spring24_csharp_console_intro-main/csharp_console_intro.csproj",
 				"/property:GenerateFullPaths=true",
 				"/consoleloggerparameters:NoSummary;ForceNoAlign"
 			],
@@ -33,7 +33,7 @@
 				"watch",
 				"run",
 				"--project",
-				"${workspaceFolder}/codeExamples/week10/spring24_postit_csharp/spring24_postit_csharp/server/postit_csharp.csproj"
+				"${workspaceFolder}/codeExamples/week10/week9C#IntroLECTURE/spring24_csharp_console_intro-main/csharp_console_intro.csproj"
 			],
 			"problemMatcher": "$msCompile"
 		}
